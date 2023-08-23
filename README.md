@@ -11,6 +11,10 @@ For Building this is project i'm used
 - Loco Motive JS
 - Scroll Trigger
 
- Here is some demo images of this website.
+ Here is some demo video of this website.
  
  
+
+https://github.com/harsh-kain/portfolio_new/assets/72141797/48b4d61b-432d-47b1-ba92-b7decf4e937a
+
+
