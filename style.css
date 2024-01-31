@@ -18,10 +18,10 @@ html{
 .cursor{
     width: 30px;
     height: 30px;
-    border: 2px solid white;
+    border: 3px solid var(--white);
     border-radius: 50%;
     position: fixed;
-    transition: background-image ease .2s;
+    transition: all ease-in-out cubic-bezier(1, 0, 0, 1);
     z-index: 10000;
     transition: .5s all ;
     transform: translate(50% ,50%);
